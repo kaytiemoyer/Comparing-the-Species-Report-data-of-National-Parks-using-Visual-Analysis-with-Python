@@ -35,6 +35,6 @@ The basic analysis showed no evident correlation between high amounts of acreage
 - Figure 5; Relationship of National Park Acreage to Species Reports
 - Figure 6; Relationship of National Park Acreage to the State location 
 - Figure 7; Relationship of the number of Species Reports to the State location
-- Figure 8; Locations of National Parks in the United States 
-- Figure 9; Number of Species Reports separated by State
+- Figure 8; Locations of National Parks in the United States. To view, go [here](https://kaytiemoyer.github.io/Comparing-the-Species-Report-data-of-National-Parks-using-Visual-Analysis-with-Python/Figure%208.html)
+- Figure 9; Number of Species Reports separated by State. To view, go [here](https://kaytiemoyer.github.io/Comparing-the-Species-Report-data-of-National-Parks-using-Visual-Analysis-with-Python/Figure%209.html)
 
