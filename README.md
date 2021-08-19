@@ -28,13 +28,13 @@ First came populating a geopandas map with a scatter plot of the locations of th
 The basic analysis showed no evident correlation between high amounts of acreage and species report count. It also did not show correlation between low amounts of acreage and species count. The initial answer to the research question would be in this case, "No". Exploring the data a little bit more, I compiled lists of the highest and lowest acreage amounts, comparing them with the highest and lowest species report counts, to which only one park out of ten showed up on both lists. 
 
 ## Visualizations
--Figure 1; The Acreage of National Parks in the United States 
--Figure 2; Total Species Report Count from National Parks 
--Figure 3; A Comparison of the 5 Largest and 5 Smallest National Parks by Acreage 
--Figure 4; A Comparison of the National Parks with the Highest and Lowest Species Report 
--Figure 5; Relationship of National Park Acreage to Species Reports
--Figure 6; Relationship of National Park Acreage to the State location 
--Figure 7; Relationship of the number of Species Reports to the State location
--Figure 8; Locations of National Parks in the United States 
--Figure 9; Number of Species Reports separated by State
+- Figure 1; The Acreage of National Parks in the United States 
+- Figure 2; Total Species Report Count from National Parks 
+- Figure 3; A Comparison of the 5 Largest and 5 Smallest National Parks by Acreage 
+- Figure 4; A Comparison of the National Parks with the Highest and Lowest Species Report 
+- Figure 5; Relationship of National Park Acreage to Species Reports
+- Figure 6; Relationship of National Park Acreage to the State location 
+- Figure 7; Relationship of the number of Species Reports to the State location
+- Figure 8; Locations of National Parks in the United States 
+- Figure 9; Number of Species Reports separated by State
 
