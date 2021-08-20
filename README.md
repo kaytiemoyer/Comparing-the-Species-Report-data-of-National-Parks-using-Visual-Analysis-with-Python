@@ -3,7 +3,7 @@
 ## Project Overview
 Does the amount of acreage in a national park affect the number of wild fauna that are reported within its borders? 
 
-Every national park in the United States has a designated amount of acreage that is managed by the National Parks Department (NPD). For each species of plant and animal seen within the borders of a national park, a report is created and submitted to record the presence of that species in that location. This can be helpful when working to determine migration patterns, breeding habits, how seasonality can affect habitats and ecosystems, in addition to supplying conservationists with data to help locate and actively protect endangered species. 
+Every national park in the United States has a designated amount of acreage that is managed by the National Parks Service (NPS). For each species of plant and animal seen within the borders of a national park, a report is created and submitted to record the presence of that species in that location. This can be helpful when working to determine migration patterns, breeding habits, how seasonality can affect habitats and ecosystems, in addition to supplying conservationists with data to help locate and actively protect endangered species. 
 
 ## Data
 #### Source: 
